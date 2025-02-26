@@ -1,7 +1,7 @@
 
 Hi, I'm Roni 👋
 
-👨‍💻 Hospitality Veteran Turned Developer
+👨‍💻 Hospitality Veteran Turned Developer Student
 
 After years in the hospitality industry, I decided to take on a new challenge and transition into tech. 
 I’m currently studying coding at Hive Helsinki (42 School), where I'm deep-diving into C and C++.

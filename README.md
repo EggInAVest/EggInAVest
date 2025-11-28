@@ -8,7 +8,7 @@ I’m currently studying coding at Hive Helsinki (42 School), where I'm deep-div
 
 💡 What I’m Learning & Exploring
 
-I'm still figuring out what area of software development interests me most—right now, I'm focused on building a strong foundation in low-level programming. 
+I'm still figuring out what area of software development interests me most. Right now, I'm focused on building a strong foundation in low-level programming. 
 I enjoy working with others rather than alone and love the idea of creating something meaningful, whether on my own or as part of a team.
 
 🚀 Future Goals

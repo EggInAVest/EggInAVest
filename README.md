@@ -1,26 +1,14 @@
 
-Hi, I'm Roni 👋
+Hey, I'm Roni 👋
 
-👨‍💻 Hospitality Veteran Turned Developer Student
+I spent years working in hospitality before switching gears to tech. 
+Now I'm studying at Hive Helsinki, learning C and C++ and building solid fundamentals.
 
-After years in the hospitality industry, I decided to take on a new challenge and transition into tech. 
-I’m currently studying coding at Hive Helsinki (42 School), where I'm deep-diving into C and C++.
+What I'm up to
+Still exploring which area of dev I want to dive into, but I'm really enjoying doing something visual so currently looking into learning more about Webdev and am studying Fullstack open from Helsinki University at the moment.
 
-💡 What I’m Learning & Exploring
+Outside of code
+I play basketball and go to the gym, watch movies and play video games. 
+I love to travel, usually to a place where it's possible to try and improve my non-existent surfing skills 🏄
 
-I'm still figuring out what area of software development interests me most. Right now, I'm focused on building a strong foundation in low-level programming. 
-I enjoy working with others rather than alone and love the idea of creating something meaningful, whether on my own or as part of a team.
-
-🚀 Future Goals
-
-I want to contribute to projects that help others, whether by building useful tools or supporting great ideas. 
-I’ve also thought about launching or joining a startup, as I thrive in dynamic, hands-on environments.
-
-🏀 More About Me
-
-When I'm not coding, you'll probably find me playing basketball, rolling dice in a DnD campaign, watching movies, gaming, or working out. 
-I’ve lived, worked, and studied across Europe, Asia, Australia, and Africa, which has given me a broad perspective on different industries and cultures.
-
-📫 Let's Connect!
-
-
+Let's connect!

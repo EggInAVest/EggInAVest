@@ -4,7 +4,7 @@ Hey, I'm Roni 👋
 I spent years working in hospitality before switching gears to tech. 
 Now I'm studying at Hive Helsinki, learning C and C++ and building solid fundamentals.
 
-**What I'm up to**
+**What am I doing**
 
 Still exploring which area of dev I want to dive into, but I'm really enjoying doing something visual so currently looking into learning more about Webdev and am studying Fullstack open from Helsinki University at the moment.
 

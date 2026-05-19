@@ -12,5 +12,3 @@ Still exploring which area of dev I want to dive into, but I'm really enjoying d
 
 I play basketball and go to the gym, watch movies and play video games. 
 I love to travel, usually to a place where it's possible to try to get better at surfing 🏄
-
-Let's connect!
